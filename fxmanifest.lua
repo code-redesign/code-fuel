@@ -43,5 +43,3 @@ exports {
 	'SetFuel'
 }
 dependency '/assetpacks'
---by s_sandro, _ray_4033 and Dwight_mnf
--- https://discord.gg/WXuFg3xRdr
